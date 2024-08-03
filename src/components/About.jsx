@@ -2,7 +2,8 @@
 export const About = () => {
   return (
     <div>
-      About
+      <h1>About</h1>
+      <p>Esta es la página acerca de...</p>
     </div>
   )
 }

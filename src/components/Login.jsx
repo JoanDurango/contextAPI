@@ -2,7 +2,8 @@
 export const Login = () => {
   return (
     <div>
-      Login
+      <h1>Login</h1>
+      <p>Esta es la página Login...</p>
     </div>
   )
 }

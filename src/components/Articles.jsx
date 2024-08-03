@@ -2,7 +2,11 @@
 export const Articles = () => {
   return (
     <div>
-      Articles
+      <h1>Artículos</h1>
+      <p>Esta es la página Articles...</p>
+      <div>
+        
+      </div>
     </div>
   )
 }
