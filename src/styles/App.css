@@ -78,6 +78,7 @@ body {
   color: rgb(20, 134, 195);
 }
 
+
 /* Modo Oscuro para Header Navigation */
 .dark-mode .header-nav nav {
   background-color: #333; /* Color de fondo del nav en modo oscuro */
