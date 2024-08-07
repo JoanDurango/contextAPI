@@ -1,5 +1,5 @@
-import { useContext } from "react";
-import { Context } from "../context/Context";
+import { useContext } from "react"
+import { Context } from "../context/Context"
 
 export const Contact = () => {
 
@@ -7,9 +7,9 @@ export const Contact = () => {
 
   return (
     <div>
-      <h1>Contacto</h1>
-      <p>Esta es la página Contact...</p>
-      <p>Estos son los datos de contacto: <strong>{nameContact.phone}</strong></p>
+      <h1>Contact</h1>
+      <p>Esta es la página de Contacto</p>
+      <p>Estos son los datos de contacto de: <strong>{nameContact.phone}</strong></p>
       <p>Objeto: {JSON.stringify(nameContact)}</p>
     </div>
   )
